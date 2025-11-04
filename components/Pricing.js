@@ -27,7 +27,7 @@ const Pricing = () => {
               <h2>Step 3</h2>
               <h2>Outfit Recommender</h2>
               <div className="image-container">
-                <img src="/images/step3.png" alt=" Search outfits from closet or shop them" />
+                <img src="/images/step003.png" alt=" Search outfits from closet or shop them" />
               </div>
             </div>
           </div>
