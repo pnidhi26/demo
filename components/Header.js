@@ -236,7 +236,7 @@ Our vision at PeachMenor AI is to redefine the future of fashion by creating int
           </div>
           <div className="contact">
             <button 
-              onClick={() => window.open('https://forms.gle/mj251ndoMVKHupYU6', '_blank', 'noopener,noreferrer')}
+              onClick={() => window.open('https://forms.gle/1Mj2niCB2KgRTvZm7', '_blank', 'noopener,noreferrer')}
               className="waitlist-button"
             >
               Join Peachy Club
