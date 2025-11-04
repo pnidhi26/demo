@@ -17,7 +17,7 @@ const sampleData = [
     id: "2",
     title: "Wardrobe Assistant",
     slug: "We organize and curate your wardrobe into vibe-based capsules for every moment in life",
-    mediaUrl: "../images/c3.png",
+    mediaUrl: "../images/c001.png",
     iframeLink: " ",
   },
 ];
