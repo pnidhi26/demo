@@ -9,8 +9,8 @@ const sampleData = [
   {
     id: "1",
     title: "Personal Stylist",
-    slug: "We analyze your context, perform color analysis, and map your emotions to style so your outfits reflect you on your virtual avatar.",
-    mediaUrl: "../images/c2.jpeg",
+    slug: "We analyze your context, perform color analysis, and map your emotions to style your outfits.",
+    mediaUrl: "../images/c002.png",
     iframeLink: " ",
   },
   {
