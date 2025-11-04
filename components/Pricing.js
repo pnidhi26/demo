@@ -9,7 +9,7 @@ const Pricing = () => {
               <h2>Step 1</h2>
               <h2>Upload Selfie</h2>
               <div className="image-container">
-                <img src="/images/step01.png" alt="Upload Selfie" />
+                <img src="/images/step001.png" alt="Upload Selfie" />
               </div>
             </div>
           </div>
@@ -18,7 +18,7 @@ const Pricing = () => {
               <h2>Step 2</h2>
               <h2>Wardrobe Creation</h2>
               <div className="image-container">
-                <img src="/images/step2.png" alt="Wardrobe Creation" />
+                <img src="/images/step002.png" alt="Wardrobe Creation" />
               </div>
             </div>
           </div>
