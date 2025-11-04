@@ -7,9 +7,9 @@ const Pricing = () => {
           <div className="pricing-component">
             <div className="pricing-component__simple">
               <h2>Step 1</h2>
-              <h2>Quick Body Scan</h2>
+              <h2>Upload Selfie</h2>
               <div className="image-container">
-                <img src="/images/step1.png" alt="Quick Body Scan" />
+                <img src="/images/step1.png" alt="Upload Selfie" />
               </div>
             </div>
           </div>
@@ -25,9 +25,9 @@ const Pricing = () => {
           <div className="pricing-component">
             <div className="pricing-component__custom">
               <h2>Step 3</h2>
-              <h2>Outfit Generator</h2>
+              <h2>Outfit Recommender</h2>
               <div className="image-container">
-                <img src="/images/step3.png" alt="Outfit Generator" />
+                <img src="/images/step3.png" alt=" Search outfits from closet or shop them" />
               </div>
             </div>
           </div>
